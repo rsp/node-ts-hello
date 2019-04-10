@@ -1,5 +1,5 @@
 {
-  "name": "ts-hello",
+  "name": "node-ts-hello",
   "version": "0.0.1",
   "description": "A minimal library for Node written in TypeScript",
   "main": "index.js",
