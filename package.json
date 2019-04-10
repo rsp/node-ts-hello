@@ -1,0 +1,24 @@
+{
+  "name": "ts-hello",
+  "version": "0.0.0",
+  "description": "A minimal library for Node written in TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rsp/node-ts-hello.git"
+  },
+  "keywords": [
+    "ts",
+    "typescript",
+    "ts-node"
+  ],
+  "author": "Rafał Pocztarski <r.pocztarski@gmail.com> (http://pocztarski.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rsp/node-ts-hello/issues"
+  },
+  "homepage": "https://github.com/rsp/node-ts-hello#readme"
+}
